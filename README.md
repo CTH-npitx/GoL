@@ -2,7 +2,7 @@
 
 # Contents
 
-# Links (edit in progres)
+# Links
 one of these is a good description of what this is for
 
 1. 
