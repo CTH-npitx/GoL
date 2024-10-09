@@ -2,7 +2,7 @@
 
 # Contents
 
-# Links
+# Links (edit in progres)
 one of these is a good description of what this is for
 
 1. 
@@ -30,3 +30,6 @@ official wiki: https://conwaylife.com/wiki/
 
 https://conwaylife.com/wiki/Run_Length_Encoded
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+# Notes To Self
+1. improve the description idea description
